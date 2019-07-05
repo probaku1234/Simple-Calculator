@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Calculator.cpp
+  CalculatorDlg.cpp
+  StringProcessor.cpp
+e:\pikapika\project\calculator\calculator\stringprocessor.cpp(32): warning C4018: '<': signed/unsigned mismatch
+e:\pikapika\project\calculator\calculator\stringprocessor.cpp(40): warning C4018: '<': signed/unsigned mismatch
+e:\pikapika\project\calculator\calculator\stringprocessor.cpp(48): warning C4018: '<': signed/unsigned mismatch
+e:\pikapika\project\calculator\calculator\stringprocessor.cpp(112): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Calculator.vcxproj -> E:\pikapika\project\Calculator\Debug\Calculator.exe
