@@ -1,2 +1,2 @@
 # Simple-Calculator
-Simple Calculator with C++
+Simple Calculator with C++ and MFC
